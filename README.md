@@ -5,7 +5,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3964DD.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 
-Primer aplicación en Kotlin. Una aplicación para android para calcular las resistencias por el código de colores. Para el taller de electrónica de 2do año.
+Primer aplicación en Kotlin. Una aplicación para android para calcular las resistencias por el código de colores. Para el taller de electrónica de 2do año (2022).
 
 ## Instrucciones de descarga:
 
